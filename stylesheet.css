@@ -1,0 +1,28 @@
+.main {
+	width: 100px;
+	height: 100px;
+	position: relative;
+	visibility: hidden;
+	margin-top: 0;
+	margin-left: 0;
+}
+
+.main #counter {
+	width: 98px;
+	height: 98px;
+	text-align: center;
+	border: 1px solid black;
+	border-radius: 5px;
+	background-color: rgba(152, 24, 161, 0.3);
+	font-style: italic;
+}
+
+.main #button {
+	width: 100%;
+	height: 40%;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	text-align: center;
+	vertical-align: bottom;
+	}

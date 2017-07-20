@@ -12,7 +12,3 @@ with open('/home/mapache/python/data_task4.txt','r') as in_file:
 total_time = m / total_microtasks
 microtask_cost = total_time / 30 
 print('{}N'.format(microtask_cost))
-
-
-                   
-Стоимость одной микротаски -- 19,76N
